@@ -1,5 +1,6 @@
 {
   "name": "marvel",
+  "homepage": "https://mettje69.github.io/marvel-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
